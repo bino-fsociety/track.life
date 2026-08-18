@@ -1,0 +1,17 @@
+{
+  "name": "Bino Tracking App",
+  "short_name": "Bino",
+  "description": "Private, local-first personal progress tracking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a0c",
+  "theme_color": "#090a0c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
